@@ -1,0 +1,2 @@
+# ximi
+index 、reg、 load
